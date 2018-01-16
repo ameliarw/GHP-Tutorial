@@ -1,4 +1,4 @@
-## Intro to GitHub Pages
+## Hi look I'm coding
 
 Creating websites for your projects is easy with GitHub Pages. This site is an example - a simple GitHub Pages website, hosted through github.io with basic Markdown formatting, and using a simple Jekyll theme (Caymen) also provided by GitHub. The video below offers a quick introduction to this service.
 
@@ -45,3 +45,4 @@ You can learn more about Jekyll websites [here](https://jekyllrb.com/).
 ### Support or Contact
 
 Having trouble with Pages? Check out more [documentation](https://help.github.com/categories/github-pages-basics/).
+
